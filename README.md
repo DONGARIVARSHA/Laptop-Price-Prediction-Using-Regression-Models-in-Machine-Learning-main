@@ -105,7 +105,7 @@ joblib
 
 ## 🧪 Link to open the App:
 
-https://gsanathkumar20-laptop-price-app-msxfph.streamlit.app/
+https://dongarivarsha-laptop-price-prediction-using-regress-main-9ocgus.streamlit.app/
 
 ---
 
@@ -141,6 +141,6 @@ And get a predicted price in Euros instantly!
 
 ## 🧑‍💻 Author
 
-Made with 💡 by **Sanath Kumar Guthikonda**
+Made with 💡 by **DONGARI VARSHA**
 
 > *Aspiring Data Scientist | Passionate about ML Deployment | Streamlit Enthusiast*
