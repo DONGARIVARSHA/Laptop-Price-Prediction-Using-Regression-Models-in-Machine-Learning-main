@@ -33,7 +33,7 @@ streamlit run main.py
 
 ```plaintext
 📁 laptop-price-prediction/
-├── app.py                     # Streamlit app
+├── main.py                     # Streamlit app
 ├── model.pkl                  # Trained GradientBoostingRegressor model
 ├── laptop_price.csv           # Input dataset used for training and UI dropdowns
 ├── *.py                       # Notebooks converted to Python scripts
