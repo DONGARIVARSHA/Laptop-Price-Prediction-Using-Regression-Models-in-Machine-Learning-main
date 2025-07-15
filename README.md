@@ -22,7 +22,7 @@ Key stages of this project include:
 Launch the app locally using:
 
 ```bash
-streamlit run app.py
+streamlit run main.py
 ```
 
 > **Note:** Ensure `model.pkl` and `laptop_price.csv` are in the same directory as `app.py`.
