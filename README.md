@@ -25,7 +25,7 @@ Launch the app locally using:
 streamlit run main.py
 ```
 
-> **Note:** Ensure `model.pkl` and `laptop_price.csv` are in the same directory as `app.py`.
+> **Note:** Ensure `model.pkl` and `laptop_price.csv` are in the same directory as `main.py`.
 
 ---
 
